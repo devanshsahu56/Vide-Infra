@@ -38,8 +38,10 @@ header{
     align-items: center;
 
 }
-.brand-logo img{
-    height: 40px;
+.brand-logo a{
+    font-family: graphik;
+    text-decoration: none;
+    color: black;
 }
 
 .menu-toggle{
